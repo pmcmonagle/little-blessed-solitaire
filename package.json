@@ -1,0 +1,14 @@
+{
+  "name": "solitaire",
+  "version": "1.0.0",
+  "description": "Classic solitaire card game using Node.JS and Blessed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul McMonagle <mcmonagle.paul@gmail.com> (http://github.com/pmcmonagle)",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
